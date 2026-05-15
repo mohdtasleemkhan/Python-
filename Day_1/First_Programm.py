@@ -10,6 +10,7 @@
 # What is Python?
 # Python is a high-level programming language created by Guido van Rossum.
 
+# Comments Single Qoutes or Double Qoutes both are valid
 print("Welcome to Python")
 print('Wlecome to Python')
 print(2+3)
