@@ -1,3 +1,5 @@
-print("My name is Mohd Tasleem Khan")
-print("I am learning Python")
-print("I am from Uttar Pradesh")
+# Introduction to Python
+
+print("Python is easy")
+print("Python is powerful")
+print("Python is beginner friendly")
