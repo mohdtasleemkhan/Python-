@@ -1,14 +1,12 @@
 # Python Learning Journey
 
-This repository contains my daily Python practice files.
+This repository contains Python practice files and notes.
 
-## Topics Covered
+## Chapters
 
-- Introduction
-- Variables
-- Data Types
-- User Input
-- Operators
+- Chapter 1 — Introduction
+- Chapter 2 — Variables
+- Chapter 3 — Operators
 
 ## Author
 Mohd Tasleem Khan
