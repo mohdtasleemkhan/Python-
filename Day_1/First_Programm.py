@@ -11,6 +11,11 @@
 # Python is a high-level programming language created by Guido van Rossum.
 
 print("Welcome to Python")
+print('Wlecome to Python')
+print(2+3)
+print(2*3)
+print(8/2)
+print(8-3)
 
 
 
