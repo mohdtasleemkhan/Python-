@@ -24,6 +24,18 @@ This repository contains my Python practice files and notes.
 - elif_statement.py
 - nested_if.py
 
+### Chapter 5 — Loops
+- for_loop.py
+- while_loop.py
+- break_continue.py
+- multiplication_table.py
+
+### Chapter 6 — Functions
+- basic_function.py
+- function_parameters.py
+- return_function.py
+- calculator_function.py
+
 ## Topics Covered
 - Python Basics
 - Variables
@@ -31,6 +43,8 @@ This repository contains my Python practice files and notes.
 - User Input
 - Operators
 - Conditions
+- Loops
+- Functions
 
 ## Author
 Mohd Tasleem Khans
