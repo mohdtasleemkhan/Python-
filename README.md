@@ -47,4 +47,4 @@ This repository contains my Python practice files and notes.
 - Functions
 
 ## Author
-Mohd Tasleem Khans
+Mohd Tasleem Khan
